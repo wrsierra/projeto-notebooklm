@@ -1,2 +1,9 @@
-# projeto-notebooklm
-bootcamp de segurança riachuelo/dio
+estudos-programacao-inicial/
+│
+├── README.md
+├── anotacoes/
+│   ├── logica.md
+│   ├── java-vs-python.md
+│
+└── roadmap/
+    └── plano-estudos.md
