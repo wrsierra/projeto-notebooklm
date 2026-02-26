@@ -7,3 +7,4 @@ estudos-programacao-inicial/
 │
 └── roadmap/
     └── plano-estudos.md
+https://github.com/seu-usuario/projeto-notebooklm
